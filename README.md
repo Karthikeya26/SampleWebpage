@@ -9,9 +9,9 @@
 
 ###### heading5
 
-**italic**
+**bold**
 
-*bold*
+*italic*
 
 ***italicbold***
 
@@ -23,7 +23,7 @@
 
 [google](https://www.google.com/)
 
-!(alt)()
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72--RniDG4UsOAW_cb5DBkgqeUzb-fBiW4Q&usqp=CAU)
 
 `def python():`
 
