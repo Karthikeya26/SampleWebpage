@@ -24,3 +24,5 @@
 [google](https://www.google.com/)
 
 !(alt)()
+
+`def python():`
